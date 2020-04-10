@@ -1,6 +1,6 @@
 // Initialize the application
 ec.init({
-    app_id: "public_fDvmDqiPR1wRsuWMfNcnxCxVURCXwLGe", // use your application client_id
+    app_id: "custom-app-24854002-1", // use your application client_id
     autoloadedflag: true, 
     autoheight: true
   });
