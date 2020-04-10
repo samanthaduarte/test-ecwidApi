@@ -1,6 +1,6 @@
 // Initialize the application
 ec.init({
-    app_id: "my-super-app", // use your application client_id tenes esto de tu app?
+    app_id: "public_fDvmDqiPR1wRsuWMfNcnxCxVURCXwLGe", // use your application client_id
     autoloadedflag: true, 
     autoheight: true
   });
